@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SkAA4Z2Vdna88ZdoqMii0eBeayf5ifg3vEX09A93TutSc6M+fiLnwYreAajwfnihzok2pnLT+V9DEAxadImMjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ignac\\Desktop\\PrimerParcial recu\\Fadon.Ignacio.2c\\Fadon.Ignacio.2c.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ignac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ignac\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ignac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

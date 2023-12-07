@@ -1,0 +1,11 @@
+C:\Users\ignac\Desktop\PrimerParcial recu\Fadon.Ignacio.2c\obj\Debug\net6.0\Fadon.Ignacio.2c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\Desktop\PrimerParcial recu\Fadon.Ignacio.2c\obj\Debug\net6.0\Fadon.Ignacio.2c.AssemblyInfoInputs.cache
+C:\Users\ignac\Desktop\PrimerParcial recu\Fadon.Ignacio.2c\obj\Debug\net6.0\Fadon.Ignacio.2c.AssemblyInfo.cs
+C:\Users\ignac\Desktop\PrimerParcial recu\Fadon.Ignacio.2c\obj\Debug\net6.0\Fadon.Ignacio.2c.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\PrimerParcial recu\Fadon.Ignacio.2c\bin\Debug\net6.0\Fadon.Ignacio.2c.deps.json
+C:\Users\ignac\Desktop\PrimerParcial recu\Fadon.Ignacio.2c\bin\Debug\net6.0\Fadon.Ignacio.2c.dll
+C:\Users\ignac\Desktop\PrimerParcial recu\Fadon.Ignacio.2c\bin\Debug\net6.0\Fadon.Ignacio.2c.pdb
+C:\Users\ignac\Desktop\PrimerParcial recu\Fadon.Ignacio.2c\obj\Debug\net6.0\Fadon.Ignacio.2c.dll
+C:\Users\ignac\Desktop\PrimerParcial recu\Fadon.Ignacio.2c\obj\Debug\net6.0\refint\Fadon.Ignacio.2c.dll
+C:\Users\ignac\Desktop\PrimerParcial recu\Fadon.Ignacio.2c\obj\Debug\net6.0\Fadon.Ignacio.2c.pdb
+C:\Users\ignac\Desktop\PrimerParcial recu\Fadon.Ignacio.2c\obj\Debug\net6.0\ref\Fadon.Ignacio.2c.dll

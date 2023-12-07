@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fadon.Ignacio.2c/1.0.0": {
+        "runtime": {
+          "Fadon.Ignacio.2c.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fadon.Ignacio.2c/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

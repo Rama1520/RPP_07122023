@@ -1,0 +1,10 @@
+C:\Users\ignac\Desktop\PrimerParcial recu\Mermelandia\bin\Debug\Mermelandia.exe.config
+C:\Users\ignac\Desktop\PrimerParcial recu\Mermelandia\bin\Debug\Mermelandia.exe
+C:\Users\ignac\Desktop\PrimerParcial recu\Mermelandia\bin\Debug\Mermelandia.pdb
+C:\Users\ignac\Desktop\PrimerParcial recu\Mermelandia\obj\Debug\Mermelandia.csproj.AssemblyReference.cache
+C:\Users\ignac\Desktop\PrimerParcial recu\Mermelandia\obj\Debug\Mermelandia.Form1.resources
+C:\Users\ignac\Desktop\PrimerParcial recu\Mermelandia\obj\Debug\Mermelandia.Properties.Resources.resources
+C:\Users\ignac\Desktop\PrimerParcial recu\Mermelandia\obj\Debug\Mermelandia.csproj.GenerateResource.cache
+C:\Users\ignac\Desktop\PrimerParcial recu\Mermelandia\obj\Debug\Mermelandia.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\PrimerParcial recu\Mermelandia\obj\Debug\Mermelandia.exe
+C:\Users\ignac\Desktop\PrimerParcial recu\Mermelandia\obj\Debug\Mermelandia.pdb
